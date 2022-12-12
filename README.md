@@ -1,6 +1,6 @@
 # ITI-Embeded-Linux
 
-#Take 1 in ITI
+#Task 1 in ITI Videos
 
 Here is the link of videos which show the run time of all tasks in the Repository
 
